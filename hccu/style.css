@@ -172,7 +172,7 @@ body
 
     position: relative;
 
-    box-shadow: 1px 1px 1px 1px #339933;
+    box-shadow: 1px 1px 1px 1px var(--brandingPrimaryBlue-400);
   }
 
   .widget_nav_menu .current-menu-item:after {
@@ -226,7 +226,7 @@ body
 
     position: relative;
 
-    box-shadow: 1px 1px 0px 1px #339933;
+    box-shadow: 1px 1px 0px 1px var(--brandingPrimaryBlue-400);
   }
 
   .widget_nav_menu .current-menu-item:after {
@@ -262,7 +262,7 @@ body
 
     position: relative;
 
-    box-shadow: 1px 1px 0 1px #339933;
+    box-shadow: 1px 1px 0 1px var(--brandingPrimaryBlue-400);
   }
 
   .widget_nav_menu .menu-item:hover a {
@@ -318,12 +318,12 @@ body
 
     position: relative;
 
-    box-shadow: 1px 1px 0px 1px #339933;
+    box-shadow: 1px 1px 0px 1px var(--brandingPrimaryBlue-400);
   }
 }
 
 .main-content .wpb_widgetised_column h2 {
-  color: #339933;
+  color: var(--brandingPrimaryBlue-400);
 
   font-weight: 800;
 
@@ -498,7 +498,7 @@ header .icon:hover {
   font-weight: normal;
 }
 .vc_section.rates .home-height {
-  background-color: #339933;
+  background-color: var(--brandingPrimaryBlue-400);
   font-weight: normal;
 }
 .slider-caption p span {
