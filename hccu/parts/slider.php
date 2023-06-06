@@ -1,0 +1,1 @@
+<?php echo home_slider_template(); ?>
