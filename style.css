@@ -26,14 +26,6 @@
   background-color: #fff !important;
 }
 
-/* .menu-sidebar-menu > .menu-link{
-	color
-}
- */
-
-/* .test-a {
-  color: red !important;
-} */
 
 .rates h2 {
   font-family: "Lato", sans-serif;
@@ -71,9 +63,6 @@ body
   background-color: #fff;
 }
 
-/* #menu-sidebar-about-us a {
-  background-color: transparent !important;
-} */
 
 .menu-sidebar-about-us-container .menu-item > .test-a {
   color: #000 !important;
@@ -112,14 +101,6 @@ body
   color: #333;
   background-color: #fff;
 }
-
-/* #home-slider > div > div > div.slick-slide.slick-current.slick-active > div > p:nth-child(6) > span:nth-child(3) > strong{
-  color: #fff !important;
-} */
-
-/*#home-slider > div > div > div:nth-child(5) > div > h2{
-	display: none;
-} */
 
 #home-slider strong {
   color: #fff;
