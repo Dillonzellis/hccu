@@ -46,19 +46,10 @@
   background-color: #fff !important;
 }
 
-/* .menu-sidebar-menu > .menu-link{
-	color
-}
- */
-
-/* .test-a {
-  color: red !important;
-} */
-
 .rates h2 {
   font-family: "Lato", sans-serif;
   font-size: 1.125em;
-  color: #005643;
+  color: #fff;
   font-weight: 300;
   padding-top: 16px;
   margin-bottom: -6px;
@@ -168,7 +159,7 @@ body
   /*max-width 991px, tablet screens*/
 
   .widget_nav_menu .current-menu-item {
-    background-color: #33812c;
+    background-color: var(--brandingPrimaryBlue-400);
 
     position: relative;
 
@@ -222,7 +213,7 @@ body
   /* min-width 1201px, large screens*/
 
   .widget_nav_menu .current-menu-item {
-    background-color: #33812c;
+    background-color: var(--brandingPrimaryBlue-400);
 
     position: relative;
 
@@ -300,7 +291,7 @@ body
     position: relative;
   }
   .widget_nav_menu .menu-item a:hover {
-    background-color: #98cb66 !important;
+    background-color: var(--brandingPrimaryBlue-300) !important;
   }
 
   .widget_nav_menu .menu-item span:after {
@@ -314,7 +305,7 @@ body
   }
 
   .widget_nav_menu .current-menu-item {
-    background-color: #33812c;
+    background-color: var(--brandingPrimaryBlue-400);
 
     position: relative;
 
