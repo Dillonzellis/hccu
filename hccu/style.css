@@ -494,7 +494,7 @@ header .icon:hover {
   opacity: 0.7;
 }
 .vc_section.rates {
-  background-color: #99cc66;
+  background-color: var(--brandingPrimaryBlue-300);
   font-weight: normal;
 }
 .vc_section.rates .home-height {
@@ -504,10 +504,6 @@ header .icon:hover {
 .slider-caption p span {
   background: rgba(117, 117, 117, 0);
 }
-/*.vc_custom_1499860186152{
-	background-color: #99cc66 !important;
-	font-weight: normal;
-}*/
 
 /* temporarty contrast fixes */
 .footer {
