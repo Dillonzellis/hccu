@@ -893,6 +893,7 @@ input[type="search"]::-webkit-input-placeholder {
 }
 .page .main-content table thead tr:nth-child(1) {
   background-color: var(--brandingPrimaryBlue-400);
+  color: white;
 }
 .page .main-content table thead tr:nth-child(1) th {
   color: #fff;
@@ -1699,7 +1700,7 @@ input[type="search"]::-webkit-input-placeholder {
   position: absolute;
   height: 1px;
   width: 70px;
-  background-color: #ff9900;
+  background-color: var(--brandingPrimaryBlue-400) !important;
   left: 50%;
   transform: translateX(-50%);
   bottom: -9px;
@@ -1716,7 +1717,7 @@ input[type="search"]::-webkit-input-placeholder {
   font-family: "myriadpro-regular", sans-serif;
   color: #fff;
   text-transform: uppercase;
-  border-bottom: 2px solid #ff9900;
+  border-bottom: 2px solid var(--brandingPrimaryBlue-400) !important;
   padding: 12px 30px;
   position: absolute;
   bottom: -11px;
@@ -1778,7 +1779,7 @@ input[type="search"]::-webkit-input-placeholder {
   transition: all 0.3s ease;
 }
 .repeater:hover .button {
-  background-color: #33812c;
+  background-color: var(--brandingPrimaryGreen-400);
   border-bottom: 2px solid #005442;
 }
 .repeater:hover .repeater-block {
