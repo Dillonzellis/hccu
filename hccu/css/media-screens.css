@@ -6,7 +6,7 @@
     position: relative;
     box-shadow: 1px 1px 1px 1px var(--brandingPrimaryBlue-400) !important;
   }
-  #menu-sidebar-menu .current-menu-item:after {
+  /* #menu-sidebar-menu .current-menu-item:after {
     background-image: url(../images/arr.png);
     right: -18px;
     position: absolute;
@@ -16,7 +16,7 @@
     height: 45px;
     background-size: cover;
     background-position: 60% 50%;
-  }
+  } */
   #menu-sidebar-menu .current-menu-item a {
     color: #fff !important;
   }
@@ -661,7 +661,7 @@
     position: relative;
     box-shadow: 1px 1px 0px 1px var(--brandingPrimaryBlue-500) !important;
   }
-  #menu-sidebar-menu .current-menu-item:after {
+  /* #menu-sidebar-menu .current-menu-item:after {
     background-image: url(../images/arr.png);
     right: -18px;
     position: absolute;
@@ -671,7 +671,7 @@
     height: 45.9px;
     background-size: cover;
     background-position: 60% 50%;
-  }
+  } */
   #menu-sidebar-menu .current-menu-item a {
     color: #fff !important;
   }
