@@ -657,9 +657,9 @@
     width: 18.25% !important;
   }
   #menu-sidebar-menu .current-menu-item {
-    background-color: var(--brandingPrimaryGreen-400) !important;
+    background-color: var(--brandingPrimaryBlue-400) !important;
     position: relative;
-    box-shadow: 1px 1px 0px 1px var(--brandingPrimaryBlue-400) !important;
+    box-shadow: 1px 1px 0px 1px var(--brandingPrimaryBlue-500) !important;
   }
   #menu-sidebar-menu .current-menu-item:after {
     background-image: url(../images/arr.png);
