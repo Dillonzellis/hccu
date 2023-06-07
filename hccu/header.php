@@ -96,7 +96,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<div class="row">
 			<div class="large-5 medium-8 columns">
 				<div class="logo text-center medium-text-left">
-					<?php show_custom_logo(); ?>
+					<div style='padding-bottom:0.5rem'><?php show_custom_logo(); ?></div>
 				</div>
 			</div>
 			<div class="large-7 medium-4 text-right columns">
